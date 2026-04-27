@@ -2,7 +2,7 @@
 // @name         Chzzk Popup Remover
 // @namespace    https://github.com/sullung2yo/chzzk-popup-remover
 // @version      0.2.0
-// @description  치지직 방송 페이지의 굿즈 배너와 같은 거슬리는 팝업을 자동으로 숨김
+// @description  치지직 방송 페이지의 팝업, 불필요한 배너와 같은 거슬리는 요소를 자동으로 숨김
 // @match        https://chzzk.naver.com/live/*
 // @grant        GM_addStyle
 // @run-at       document-start
